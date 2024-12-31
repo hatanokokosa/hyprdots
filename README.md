@@ -1,3 +1,2 @@
-# hyprland-dotfiles
-# hyprland-dotfiles
 # hyprdots
+## just my hyprland dotfiles
